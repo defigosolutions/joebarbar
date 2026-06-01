@@ -22,13 +22,13 @@ export default function Gallery() {
       id: 3,
       category: 'shaves',
       title: 'Classic Straight Razor Line',
-      image: 'https://images.unsplash.com/photo-1593702295094-aec22597af65?q=80&w=800&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1599351431202-1e0f0137899a?q=80&w=800&auto=format&fit=crop',
     },
     {
       id: 4,
       category: 'shaves',
       title: 'Premium Steamed Facial Razor Shave',
-      image: 'https://images.unsplash.com/photo-1605497746444-ac9dbd39f4a5?q=80&w=800&auto=format&fit=crop',
+      image: 'https://images.unsplash.com/photo-1517832606299-7ae9b720a186?q=80&w=800&auto=format&fit=crop',
     },
     {
       id: 5,
